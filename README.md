@@ -29,7 +29,7 @@ You are free to use, share, and adapt the dataset for non-commercial purposes wi
 •	Citation
     If you use this dataset in your research, please cite it as:
 
-Khalaf, Zainab A. (2025). Maher Arabic Poetry Dataset (MAPD): A Structured Corpus of Arabic Poetic Verses for Computational Analysis. GitHub Repository. https://github.com/ZainabKhalaf/MAPD
+Khalaf, Zainab A. (2025). Maher Arabic Poetry Dataset (MAPD): A Structured Corpus of Arabic Poetic Verses for Computational Analysis. GitHub Repository. https://github.com/ZainabKhalaf/Maher-Arabic-Poetry-Dataset-MAPD-
 
   
 
